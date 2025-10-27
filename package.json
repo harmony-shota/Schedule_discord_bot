@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/harmony-shota/Schedule_discord_bot#readme",
   "dependencies": {
+    "@google/genai": "^1.27.0",
     "discord.js": "^14.23.2",
     "dotenv": "^17.2.3",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "googleapis": "^164.1.0",
+    "node-cron": "^4.2.1"
   }
 }
